@@ -20,7 +20,7 @@ __This text is also bolded with 2 underscores__
 
 _* This text is italcized and bolded because of_*
 _I **can** combine them_
-
+~This text has be stricken out~ 
 
 ## BLOCKQUOTES
 
