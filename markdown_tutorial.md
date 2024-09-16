@@ -71,3 +71,26 @@ http://brewerlab.net
 \*Literal asterisks\*
 
 
+## FENCED CODE BLOCKS
+
+*
+* Generic example 
+``` 
+echo "Hello"
+
+```
+
+* Python example
+```python
+print("Hello")
+```
+
+
+
+* R example
+
+```r 
+X <- 4^2
+```
+
+
