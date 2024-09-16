@@ -50,5 +50,24 @@ Ordered
 
 
 ## IMAGES
-![Goliath Grouper](https://www.aces.edu/wp-content/uploads/2018/10/GettyImages-763163807.jpg)
+![Red Drum](https://www.aces.edu/wp-content/uploads/2018/10/GettyImages-763163807.jpg)
 Format: \![Alt text](url)
+
+
+
+
+## LINKS
+
+
+
+http://brewerlab.net
+
+
+[Salt Strong](https://www.saltstrong.com/member-login/)
+
+
+## BACKSLASH ESCAPES
+
+\*Literal asterisks\*
+
+
