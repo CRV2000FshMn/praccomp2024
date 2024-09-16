@@ -94,3 +94,22 @@ X <- 4^2
 ```
 
 
+## Task Lists 
+
+- [ ] this is an incomplete task
+- [x] this is a complete task
+- [x] @mentions, #refs, [links](), <**formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+
+
+## Tables
+
+
+First Header | Second Header |
+------------ | ------------- |
+Content 1    | Content 2     |
+
+
+## Emoji
+
+:smile: 
