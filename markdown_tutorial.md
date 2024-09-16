@@ -46,3 +46,9 @@ Ordered
 3. 3
 	* 3a
 	* 3b
+
+
+
+## IMAGES
+![Goliath Grouper](https://www.aces.edu/wp-content/uploads/2018/10/GettyImages-763163807.jpg)
+Format: \![Alt text](url)
